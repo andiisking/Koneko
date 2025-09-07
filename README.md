@@ -14,7 +14,7 @@ A Magisk/ksu/APatch module designed to enhance UI smoothness and overall renderi
 📦 Installation
 
 1. Download the latest KonekoTweak.zip file from the Releases section.
-2. Open the Magisk App.
+2. Open the Magisk/ksu/APatch.
 3. Go to the Modules section.
 4. Tap on Install from storage and select the downloaded ZIP file.
 5. Once installed, reboot your device.
