@@ -1,4 +1,5 @@
-<img src="https://www.pngegg.com/some-directory/image-name.png" width="30" height="30" /> KONEKO TWEAK (FEMBOY)
+<img src="https://ibb.co.com/cKPpLT8L" width="70" height="70"/> 
+KONEKO TWEAK (FEMBOY)
 
 A Magisk/ksu/APatch module designed to enhance UI smoothness and overall rendering performance on Android devices by optimizing system-level parameters.
 
