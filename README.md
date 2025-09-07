@@ -43,4 +43,6 @@ This module is provided as-is. Use it at your own risk. The developer is not res
 
 If this module has improved your device's performance, please consider giving it a star ⭐ on GitHub! It helps a lot.
 
+join my TELEGRAM chanel : https://t.me/Droid_ch
+
 Download link: Check the Releases Page
