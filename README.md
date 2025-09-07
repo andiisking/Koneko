@@ -1,6 +1,6 @@
 <img src="https://img.icons8.com/fluency/48/000000/cat.png" width="30" height="30" /> KONEKO TWEAK (FEMBOY)
 
-A Magisk module designed to enhance UI smoothness and overall rendering performance on Android devices by optimizing system-level parameters.
+A Magisk/ksu/APatch module designed to enhance UI smoothness and overall rendering performance on Android devices by optimizing system-level parameters.
 
 ---
 
@@ -23,15 +23,14 @@ A Magisk module designed to enhance UI smoothness and overall rendering performa
 
 Requirement Minimum Version
 Android 10 (Q)
-Magisk 20.4
-Chipset Snapdragon, MediaTek, Exynos, and others
+chipset Snapdragon, MediaTek, Exynos, and others
 
 ❓ Troubleshooting & Support
 
 · Bootloop?
   · Reboot to recovery and disable Magisk modules or remove the module via ADB.
 · No Effect?
-  · Ensure Magisk is installed correctly and functioning (check SafetyNet/Play Integrity).
+  · Ensure Magisk/ksu/APatch is installed correctly and functioning (check SafetyNet/Play Integrity).
   · Reboot your device once more after installation.
 · Further Help:
   · Join the Telegram support group: @droid_tweak
