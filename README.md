@@ -1,4 +1,5 @@
-<img src="https://ibb.co.com/cKPpLT8L" width="70" height="70"/> 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://i.ibb.co.com/7xHT4yp4/astolfo-fate-apocrypha-image-eye-clip-art-astolfo-fate-02a8e1fd06913a3550affcc64669e8f2.png" width="120" height="120"/></div>
 KONEKO TWEAK (FEMBOY)
 
 A Magisk/ksu/APatch module designed to enhance UI smoothness and overall rendering performance on Android devices by optimizing system-level parameters.
