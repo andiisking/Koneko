@@ -1,29 +1,47 @@
-#KONEKO TWEAK 
+<img src="https://img.icons8.com/fluency/48/000000/cat.png" width="30" height="30" /> KONEKO TWEAK (FEMBOY)
 
-Modul Magisk untuk meningkatkan performa rendering dan kelancaran UI Android.
+A Magisk module designed to enhance UI smoothness and overall rendering performance on Android devices by optimizing system-level parameters.
 
-✨ Fitur
+---
 
-📦 Install
+✨ Features
 
-1. Download file zip dari Releases
-2. Buka Magisk App → Modules → Install from Storage
-3. Pilih file zip yang didownload
-4. Reboot device
+· System Framework Optimization: Tweaks SurfaceFlinger (sf) and Dalvik VM parameters for smoother animations and app execution.
+· GPU Rendering Boost: Adjusts GPU settings to prioritize performance and fluidity.
+· Kernel Tuning: Modifies kernel parameters for better scheduler and resource management.
+· Universal Compatibility: Works across a wide range of devices and chipsets.
 
-⚙️ Kompatibilitas
+📦 Installation
 
-· Android 10+
-· Magisk 20.4+
-· Semua chipset (Snapdragon, MediaTek, Exynos)
+1. Download the latest KonekoTweak.zip file from the Releases section.
+2. Open the Magisk App.
+3. Go to the Modules section.
+4. Tap on Install from storage and select the downloaded ZIP file.
+5. Once installed, reboot your device.
 
-❓ Troubleshooting
+⚙️ Compatibility
 
-· Pastikan Magisk terinstall dengan benar
-· Reboot setelah install
+Requirement Minimum Version
+Android 10 (Q)
+Magisk 20.4
+Chipset Snapdragon, MediaTek, Exynos, and others
+
+❓ Troubleshooting & Support
+
+· Bootloop?
+  · Reboot to recovery and disable Magisk modules or remove the module via ADB.
+· No Effect?
+  · Ensure Magisk is installed correctly and functioning (check SafetyNet/Play Integrity).
+  · Reboot your device once more after installation.
+· Further Help:
+  · Join the Telegram support group: @droid_tweak
 
 ⚠️ Disclaimer
 
-Gunakan dengan risiko sendiri. Selalu backup data penting.
+This module is provided as-is. Use it at your own risk. The developer is not responsible for any potential damage to your device, including but not limited to bootloops, soft bricks, or data loss. Always back up your important data before installing any system-level modification.
 
-⭐ Kasih bintang jika module ini membantu!
+---
+
+If this module has improved your device's performance, please consider giving it a star ⭐ on GitHub! It helps a lot.
+
+Download link: Check the Releases Page
